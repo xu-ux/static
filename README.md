@@ -1,4 +1,5 @@
 # 👓xu-ux的静态资源库
+[![](https://data.jsdelivr.com/v1/package/gh/xu-ux/static/badge)](https://www.jsdelivr.com/package/gh/xu-ux/static)
 
 🛸这里存放的是博客图片和资源文件哦
 
