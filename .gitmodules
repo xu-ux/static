@@ -1,0 +1,3 @@
+[submodule "chrome/plugins/chrome-blog-extend"]
+	path = chrome/plugins/chrome-blog-extend
+	url = git@github.com:xu-ux/chrome-blog-extend.git
